@@ -1,0 +1,6 @@
+job_id,job_title,job_description
+J01,Machine Learning Engineer,"We are looking for a machine learning engineer to design, train and deploy predictive models. Required skills: Python, scikit-learn, TensorFlow or PyTorch, feature engineering, model evaluation and deployment. Experience with data analysis is a plus."
+J02,NLP Engineer,"Seeking an NLP engineer to build language understanding systems such as text classification, semantic search and chatbots. Experience with transformer models, Hugging Face, embeddings and Python is required."
+J03,Frontend Web Developer,"Looking for a web developer to create responsive user interfaces using HTML, CSS, JavaScript and React. Experience integrating REST APIs and working with Git in an agile team is required."
+J04,Data Analyst,"The data analyst will collect and analyse business data, build dashboards and prepare reports for stakeholders. Skills needed: SQL, Excel, Power BI or Tableau, and strong communication."
+J05,Cloud DevOps Engineer,"Responsible for CI/CD pipelines, containerisation and cloud infrastructure. Must know AWS, Docker, Kubernetes and infrastructure as code tools."
